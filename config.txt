@@ -1,5 +1,5 @@
-token=NTI2MjA0NzIwMjE0MzEwOTI1.Dy1Rfw.yO0pJuZpVci-4pxXNc2ZOG7sbzg
-owner=476188949291991060 
+token=NTM5MTE3NzA1MTA2Njg1OTgy.Dy9vVQ.4ING2l4QCefiPGU_d5X1wc6ChJ4
+owner=434642311591493632
 prefix=1
 game=عندما لا يسطيع البوح عن التعبير هنا يأتي وقت الأغاني:guitar:
 stayinchannel=true
